@@ -18,7 +18,7 @@ Basic Commands:
 Other Commands:
 -h, --help            Prints this help message
 --version             Prints program version
-                    ```
+```
 
 # Compiling : 
 `g++ *.c *.cpp -o mem -lelf -lproc `
