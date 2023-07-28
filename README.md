@@ -22,3 +22,9 @@ Other Commands:
 
 # Compiling : 
 `g++ *.c *.cpp -o mem -lelf -lproc `
+
+# Installing : 
+- You can try the latest version in termux (Only aarch64 is compiled for now)
+- Run this in termux :
+  `curl -sSL https://raw.githubusercontent.com/Rhythm113/Tools/main/Memory%20Analyz3r/install.sh | bash`
+- Then simply run `mem` to see help.
