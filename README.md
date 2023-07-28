@@ -1,5 +1,5 @@
 # MemoryAnalyz3r
-Simple Utility to scan specific section of memory.<br>
+Simple Utility to scan specific section of memory.<br> Mainly Built & Tsted for Android Arm64
 
 # Usage : 
 ```
