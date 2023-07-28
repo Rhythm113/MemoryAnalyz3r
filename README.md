@@ -2,7 +2,7 @@
 Simple Utility to scan specific section of memory.<br>
 
 # Usage : 
-` Memory Analyz3r by @Rhythm113
+``` Memory Analyz3r by @Rhythm113
 
 Usage: mem [options] [PACKAGE NAME/TID]
 
@@ -16,7 +16,7 @@ Basic Commands:
 
 Other Commands:
 -h, --help            Prints this help message
---version             Prints program version `
+--version             Prints program version ```
 
 # Compiling : 
 `g++ *.c *.cpp -o mem -lelf -lproc `
